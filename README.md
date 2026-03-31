@@ -41,14 +41,14 @@ Visualization: Matplotlib, Seaborn
 APIs: Weather API, Social Media APIs
 Tools: Jupyter Notebook, VS Code
 
-🚀 How to Run the Project
-1️⃣ Clone the Repository
+How to Run the Project
+1️⃣ Setup the Project
 git clone https://github.com/your-username/disaster-warning-system.git
 cd disaster-warning-system
-2️⃣ Install Dependencies
 pip install -r requirements.txt
-3️⃣ Run the Model
+2️⃣ Run the Model
 python prediction.py
+
 📊 Results
 Improved prediction accuracy using multi-modal data fusion
 Faster detection compared to single-source systems

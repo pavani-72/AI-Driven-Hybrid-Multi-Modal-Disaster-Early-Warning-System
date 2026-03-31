@@ -40,18 +40,7 @@ Libraries: NumPy, Pandas, Scikit-learn, TensorFlow / PyTorch
 Visualization: Matplotlib, Seaborn
 APIs: Weather API, Social Media APIs
 Tools: Jupyter Notebook, VS Code
-📂 Project Structure
-├── data/
-├── models/
-├── notebooks/
-├── scripts/
-│   ├── data_collection.py
-│   ├── preprocessing.py
-│   ├── model_training.py
-│   └── prediction.py
-├── app/
-├── README.md
-└── requirements.txt
+
 🚀 How to Run the Project
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/disaster-warning-system.git

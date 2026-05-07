@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+tensorflow==2.15.0
+torch
+transformers
+scikit-learn
+geopy
+plotly
+folium
+streamlit-folium
+joblib
